@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Praveen Manujaya
 
-<!--
-**Praveen-MBR/Praveen-MBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BNS Hons in Software Engineering, Kaatsu International University  
+💻 Full-stack Developer | Java, Spring Boot, React.js, Firebase  
+📱 Interested in Mobile Apps, Web Systems, and Cloud Integration  
+🌐 Working on projects like:
+- 🚗 Automated Driving License Trial Testing System
+- 🏥 Clinic & Pharmacy Management System (React + Spring Boot + MongoDB)
+- 🏨 Hotel Management and Reservation Interface
 
-Here are some ideas to get you started:
+📫 Reach me: [LinkedIn](www.linkedin.com/in/praveen-manujaya-235316295) | [Email] (praveenmanujaya5@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Fun Fact: I love turning ideas into scalable systems!
