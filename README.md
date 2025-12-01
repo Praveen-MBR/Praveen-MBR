@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praveen Manujaya
 
-🎓 BNS Hons in Software Engineering, Kaatsu International University  
+🎓 BSc Hons in Software Engineering, Kaatsu International University  
 💻 Full-stack Developer | Java, Spring Boot, React.js, Firebase  
 📱 Interested in Mobile Apps, Web Systems, and Cloud Integration  
 🌐 Working on projects like:
